@@ -1,4 +1,4 @@
-# Recreating-John-Snow-s-Ghost-Map
+# Recreating-John-Snows-Ghost-Map
 
 ![image](https://user-images.githubusercontent.com/50009207/208241664-381cf95b-490e-4eee-a24f-28b6a70b514f.png)
 
